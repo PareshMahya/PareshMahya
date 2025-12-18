@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br><br>Nice meeting you, I'm Pareshkumar Mahyavanhi!<br><br><br>How to reach me: LinkedIn - @pareshkumar-mahyavanshi<br><br>
+Hi there <br><br>Nice meeting you, I'm Pareshkumar Mahyavanhi!<br><br><br>How to reach me: LinkedIn - @pareshkumar-mahyavanshi<br><br>
 
 
 ## 🌐 Socials:

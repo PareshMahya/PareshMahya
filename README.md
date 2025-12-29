@@ -1,6 +1,12 @@
 # 💫 About Me:
 Hi there <br><br>Nice meeting you, I'm Pareshkumar Mahyavanhi!<br><br><br>How to reach me: LinkedIn - @pareshkumar-mahyavanshi<br><br>
 
+# 📬 Contact Me
+
+You can reach out to me in the following ways:
+- LinkedIn: https://linkedin.com/in/pareshkumar-mahyavanshi-0909b9133
+- Website contact form: https://pareshmahya.github.io/profile/#contact
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pareshkumar-mahyavanshi-0909b9133/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16336393/p-m) 

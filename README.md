@@ -1,19 +1,11 @@
 
 # 💫 About Me
 
-Hi, nice to meet you. I am **Pareshkumar Mahyavanshi**, a **Python Backend Developer and DevOps Engineer** with hands on experience designing, building, and operating scalable web applications, data pipelines, and cloud native systems.
+Hi, I am **Pareshkumar Mahyavanshi**, a **Python Backend Developer and DevOps Engineer** working on scalable web applications, data pipelines, and cloud native systems.
 
-### Professional Experience
+I work across **backend development, data engineering, and DevOps**, using **Python, Docker, Kubernetes, AWS**, and frameworks like **Django, Flask, and FastAPI**. My work focuses on building reliable APIs, automating CI CD workflows, orchestrating data pipelines, and operating production systems.
 
-I have worked in professional environments across **data engineering, DevOps, and web application development teams**, delivering production ready systems using **Python, R, Bash, SQL, Docker, Kubernetes, AWS, Jenkins, Apache Airflow, Databricks, Terraform, Ansible**, and modern backend frameworks such as **Django, Flask, FastAPI**, and **Django REST Framework**.
-
-My professional work includes building **secure REST APIs**, designing and maintaining **CI CD pipelines**, orchestrating **ETL workflows**, managing **cloud infrastructure**, implementing **monitoring and logging**, and handling **encrypted data processing** using structured formats such as **JSON, CSV, YAML**, and **Jinja templates** in Agile environments.
-
-### Academic and Personal Projects
-
-In addition to professional work, I have built and maintained real world academic and personal projects focused on **data science, backend systems, and automation**, involving **end to end data preparation, feature engineering, exploratory analysis, visualization, and modeling** using Python and R. This work also included building **supporting backend services**, handling structured and time series data, and applying reproducible workflows for analysis and reporting.
-
-I am comfortable collaborating in cross functional teams and delivering **reliable, secure, and maintainable systems**, with a strong emphasis on automation, scalability, and clean architecture.
+Alongside professional work, I also explore **data science and automation projects**, involving data preparation, analysis, visualization, and reproducible workflows using Python and R.
 
 ## 📬 Contact Me
 

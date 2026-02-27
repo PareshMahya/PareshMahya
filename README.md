@@ -3,7 +3,7 @@
 
 Hi, I am **Pareshkumar Mahyavanshi**, a **Python Backend Developer and DevOps Engineer** working on scalable web applications, data pipelines, and cloud native systems.
 
-I work across **backend development, data engineering, and DevOps**, using **Python, Docker, Kubernetes, AWS**, and frameworks like **Django, Flask, and FastAPI**. My work focuses on building reliable APIs, automating CI CD workflows, orchestrating data pipelines, and operating production systems.
+I work across **backend development, data engineering, and DevOps**, using **Python, Docker, Kubernetes, AWS**, and frameworks like **Django, Flask, and FastAPI**. My work focuses on building reliable APIs, automating CI-CD workflows, orchestrating data pipelines, and operating production systems.
 
 Alongside professional work, I also explore **data science and automation projects**, involving data preparation, analysis, visualization, and reproducible workflows using Python and R.
 
